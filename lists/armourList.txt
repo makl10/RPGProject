@@ -1,0 +1,4 @@
+Basic Leather Armour, chest, 20,
+Basic Leather Helm, helm, 10,
+Basic Leather Gloves, gloves, 5,
+Basic Leather Boots, boots, 5,
